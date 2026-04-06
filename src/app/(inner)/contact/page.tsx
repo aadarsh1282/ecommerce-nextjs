@@ -48,7 +48,7 @@ export default function Home() {
                                                 +856 (76) 259 6328
                                             </a>
                                             <a href="#" className="email">
-                                                info@example.com
+                                                aadarshk56@gmail.com
                                             </a>
                                         </div>
                                     </div>
@@ -63,7 +63,7 @@ export default function Home() {
                                                 +856 (76) 259 6328
                                             </a>
                                             <a href="#" className="email">
-                                                info@example.com
+                                                aadarshk56@gmail.com
                                             </a>
                                         </div>
                                     </div>

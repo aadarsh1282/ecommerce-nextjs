@@ -225,7 +225,7 @@ function HeaderOne() {
                                             <li className="category-hover-header language-hover">
                                                 <a href="#">INR</a>
                                                 <ul className="category-sub-menu">
-                                                    <li><a href="#"><span>INR (₹)</span></a></li>
+                                                    <li><a href="#"><span>INR ($)</span></a></li>
                                                     <li><a href="#"><span>USD ($)</span></a></li>
                                                     <li><a href="#"><span>EUR (€)</span></a></li>
                                                 </ul>

@@ -28,7 +28,7 @@ function ComponentName() {
                   <Link href="#" className="number">
                     +856 (76) 259 6328
                   </Link>
-                  <a href="#">info@example.com</a>
+                  <a href="#">aadarshk56@gmail.com</a>
                 </div>
               </div>
               <div className="opening-hour">
@@ -63,7 +63,7 @@ function ComponentName() {
                   <Link href="#" className="number">
                     +856 (76) 259 6328
                   </Link>
-                  <Link href="#">info@example.com</Link>
+                  <Link href="#">aadarshk56@gmail.com</Link>
                 </div>
               </div>
               <div className="opening-hour">
@@ -98,7 +98,7 @@ function ComponentName() {
                   <Link href="#" className="number">
                     +856 (76) 259 6328
                   </Link>
-                  <Link href="#">info@example.com</Link>
+                  <Link href="#">aadarshk56@gmail.com</Link>
                 </div>
               </div>
               <div className="opening-hour">
